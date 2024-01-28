@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Ligacloud'
+copyright = '2024, Nanpos'
+author = 'Matheus Matos'
 
 release = '0.1'
 version = '0.1.0'
