@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Ligacloud'
-copyright = '2024, Nanpos'
+copyright = '2024, Nanpos Tecnologia LTDA'
 author = 'Matheus Matos'
 
 release = '0.1'
@@ -33,3 +33,5 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+master_doc = 'cover'
