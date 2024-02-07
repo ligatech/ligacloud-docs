@@ -1,6 +1,11 @@
 ========================================
-Ligacloud - Onde os eventos acontecem
+Serviços
 ========================================
+
+Este é um texto básico que aparece antes da introdução. Podemos chamá-lo de um preâmbulo.
+
+Introdução
+-----------------
 
 A Ligatech Cloud (ou Ligacloud) é a plataforma de nuvem da Ligatech. Isto é, a nossa suíte de software, oferecida como serviço (SaaS) e cobrada sob demanda, possibilitando uma maior eficiência e escalabilidade em comparação às nossas ofertas de Outsourcing e On-Premise.
 
@@ -12,10 +17,6 @@ Esta documentação mescla especificações de requisito de software (SRS), arqu
 
    introduction/introduction
    services/services
-   specs/specs
-   ux/ux
-   oaas/oaas
-   tutorials/tutorials
-..    part1/part1
-..    part2/part2
-..    part3/part3
+   part1/part1
+   part2/part2
+   part3/part3
